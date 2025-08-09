@@ -27,8 +27,8 @@ const Projects = () => {
       image: project2,
       category: "frontend",
       tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Github"],
-      github: "#",
-      demo: "#"
+      github: "https://github.com/dellayunika/my-portfolio",
+      demo: "https://my-portfolio-git-main-dellas-projects-015e667e.vercel.app/"
     },
     {
       id: 3,
